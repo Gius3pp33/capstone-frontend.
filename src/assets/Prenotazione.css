@@ -1,0 +1,15 @@
+
+
+.transparent-background {
+  background-color: #F5EDE2; 
+  border: none; 
+  border-radius: 8px; 
+}
+
+.transparent-background .list-group-item {
+  background-color: #F5EDE2;
+  border: none; 
+}
+.rbc-event {
+  white-space: pre-line; 
+}
