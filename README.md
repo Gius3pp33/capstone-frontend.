@@ -1,8 +1,26 @@
-# React + Vite
+# Pizza & Vino Restaurant Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This project is a full-stack web application for managing a restaurant called "Pizza & Vino." It allows users to view the menu, make reservations, and manage availability. The application is built using React for the frontend and Spring Boot with PostgreSQL for the backend.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **User Authentication**: Users can registe,log in,and book tables.
+- **Menu Management**: Display and manage menu items, including pizzas, beverages, and desserts.
+- **Reservation System**: Users can book tables based on availability.
+- **Admin Dashboard**: Admins can manage menu items and availability.
+- **Responsive Design**: The application is optimized for both desktop and mobile devices.
+
+## Technologies Used
+
+- **Frontend**: React, Bootstrap
+- **Backend**: Java,Spring Boot, PostgreSQL
+- **Authentication**: JWT (JSON Web Tokens)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Gius3pp33/capstone.git
+   ```
